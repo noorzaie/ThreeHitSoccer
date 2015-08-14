@@ -22,4 +22,4 @@ public:
     CREATE_FUNC(MainMenu);
 };
 
-#endif // __HELLOWORLD_SCENE_H__
+#endif // __MAINMENU_SCENE_H__
